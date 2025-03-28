@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Learn Rust",
+    "done": true
+  },
+  {
+    "description": "Learn Rust programming",
+    "done": true
+  },
+  {
+    "description": "Preperaing myself for turbine cohort",
+    "done": true
+  },
+  {
+    "description": "sleep",
+    "done": true
+  },
+  {
+    "description": "me",
+    "done": false
+  }
+]
